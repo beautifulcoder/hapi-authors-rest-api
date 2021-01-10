@@ -1,0 +1,11 @@
+{
+  "APP_PORT": 3000,
+  "APP_HOST": "127.0.0.1",
+  "DB_HOST": "mongodb://127.0.0.1:27017",
+  "DB_NAME": "hapiAuthor",
+  "DB_OPTS": {
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true,
+    "poolSize": 1
+  }
+}
