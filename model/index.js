@@ -8,5 +8,5 @@ module.exports = {
       config.DB_OPTS)
   },
   connection: mongoose.connection,
-  Author: require('./author')
+  Author: require('./Author')
 }
